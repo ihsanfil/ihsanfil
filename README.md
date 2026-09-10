@@ -2,9 +2,11 @@
 
 ### Senior Full Stack .NET Developer | AI & RAG Developer
 
-7+ years of professional experience building modern web applications with **C#, .NET and ASP.NET Core**.
+7+ years of professional experience building full-stack web and software solutions with C#, .NET, ASP.NET Core, JavaScript and SQL Server.
 
-Currently focused on **AI-powered applications, LLM integrations, RAG systems and intelligent software solutions**.
+I develop modern web applications, REST APIs, mobile applications and AI-powered solutions, working across technologies such as React, Flutter/Dart and Python.
+
+Currently focused on AI, LLM integrations, RAG systems, intelligent applications and automation, combining software engineering with modern AI technologies.
 
 ---
 
