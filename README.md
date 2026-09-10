@@ -12,38 +12,14 @@ Currently focused on **AI, LLM integrations, RAG systems, intelligent applicatio
 
 ## 🚀 What I Work With
 
-### Backend
-- C#
-- ASP.NET Core
-- Web API
-- REST APIs
-- Entity Framework Core
-- SQL Server
-- JWT / Identity
-- N-Tier Architecture
+| Backend | AI & RAG |
+|---|---|
+| C# · ASP.NET Core · Web API · REST APIs | OpenAI API · LLM Integrations · RAG · Vector Search · Embeddings |
+| Entity Framework Core · SQL Server · JWT / Identity | Prompt Engineering · AI-powered Applications |
 
-### AI & RAG
-- OpenAI API
-- LLM Integrations
-- RAG
-- Vector Search
-- Embeddings
-- Prompt Engineering
-- AI-powered Applications
-
-### Frontend & Mobile
-- JavaScript
-- React
-- Flutter
-- HTML / CSS
-
-### Cloud & DevOps
-- Azure
-- Azure DevOps
-- Azure CDN
-- Docker
-- IIS
-- Git / GitHub
+| Frontend & Mobile | Cloud & DevOps |
+|---|---|
+| JavaScript · React · Flutter · Dart · HTML / CSS | Azure · Azure DevOps · Azure CDN · Docker · IIS · Git / GitHub |
 
 ---
 
