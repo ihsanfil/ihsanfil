@@ -1,12 +1,10 @@
 # Hi, I'm İhsan Fil 👋
 
-### Senior Full Stack .NET Developer | AI Developer
+### Senior Full Stack .NET Developer | AI & RAG Developer
 
-Software developer with 7+ years of professional experience, mainly
-focused on C#, .NET and modern web applications.
+7+ years of professional experience building modern web applications with **C#, .NET and ASP.NET Core**.
 
-Currently expanding my expertise in AI-powered applications, LLM
-integrations, RAG systems and mobile development.
+Currently focused on **AI-powered applications, LLM integrations, RAG systems and intelligent software solutions**.
 
 ---
 
@@ -22,19 +20,18 @@ integrations, RAG systems and mobile development.
 - JWT / Identity
 - N-Tier Architecture
 
-### AI
+### AI & RAG
 - OpenAI API
 - LLM Integrations
 - RAG
 - Vector Search
 - Embeddings
 - Prompt Engineering
-- AI-powered assistants
+- AI-powered Applications
 
 ### Frontend & Mobile
 - JavaScript
 - React
-- React Native
 - Flutter
 - HTML / CSS
 
@@ -43,8 +40,7 @@ integrations, RAG systems and mobile development.
 - Azure DevOps
 - Azure CDN
 - Docker
-- IIS / Plesk
-- AWS EC2
+- IIS
 - Git / GitHub
 
 ---
@@ -52,34 +48,26 @@ integrations, RAG systems and mobile development.
 ## ⭐ Featured Projects
 
 ### AI & RAG
-AI-powered document assistant built with ASP.NET Core,
-document ingestion, Excel upload, embeddings and RAG.
+AI-powered document assistant built with **ASP.NET Core**, document ingestion, embeddings, vector search and RAG.
 
 ### AI Photo Analyzer
-React Native + ASP.NET Core application integrating
-AI-powered image analysis through REST APIs.
+AI-powered image analysis application integrating **React Native, TypeScript, .NET and AI APIs**.
 
 ### TrekStride
-Social fitness and hiking application built with
-React Native and ASP.NET Core.
+Social fitness and hiking application built with **React Native and ASP.NET Core**.
 
 ---
 
 ## 💼 Professional Experience
 
-7+ years of professional software development experience.
-
-Worked on 40+ corporate web projects covering backend,
-frontend, CMS, hosting and CDN infrastructure.
-
-Experience includes projects for brands such as
-Pastavilla, Koroplast, Oba Makarna, Lider Pet, Parex,
-Eti Cin and Korozo Group.
+- **7+ years** of professional Full Stack .NET development experience.
+- Built **40+ corporate web and software projects**.
+- Experience across backend, frontend, CMS, API integrations, hosting and CDN infrastructure.
+- Projects delivered for brands including **ETİ, Parex, Lider Pet Food, Korozo Group and others**.
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/ihsanfil
-- GitHub: https://github.com/ihsanfil
-- Email: ihsanfil.dev@gmail.com
+- LinkedIn: [linkedin.com/in/ihsanfil](https://www.linkedin.com/in/ihsanfil)
+- Email: [ihsanfil.dev@gmail.com](mailto:ihsanfil.dev@gmail.com)
