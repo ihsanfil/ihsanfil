@@ -50,14 +50,4 @@ Social fitness and hiking application built with **React Native and ASP.NET Core
 - LinkedIn: [linkedin.com/in/ihsanfil](https://www.linkedin.com/in/ihsanfil)
 - Email: [ihsanfil.dev@gmail.com](mailto:ihsanfil.dev@gmail.com)
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihsanfil&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanfil&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ihsanfil&theme=tokyonight&hide_border=true)
-
-</div>
